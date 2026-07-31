@@ -1,0 +1,6 @@
+"Metric","Value"
+"Patients",440
+"LASSO_Genes",124
+"ModelA_Cindex",0.798892772386625
+"ModelB_Cindex",0.787431055522805
+"Delta_Cindex",-0.01146171686382
