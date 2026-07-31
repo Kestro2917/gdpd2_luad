@@ -1,8 +1,8 @@
-###### ================================================================================
+================================================================================
 
-###### GDPD2 in Lung Adenocarcinoma - Analysis Code
+GDPD2 in Lung Adenocarcinoma - Analysis Code
 
-###### ================================================================================
+================================================================================
 
 
 
@@ -28,11 +28,9 @@ The pipeline includes:
 
 &#x20; - Immune cell deconvolution (quanTIseq)
 
-&#x20; - External validation 
+&#x20; - External validation
 
 
 
-Data source: TCGA-LUAD (https://portal.gdc.cancer.gov/) 
-
-
+Data source: TCGA-LUAD (https://portal.gdc.cancer.gov/)
 
